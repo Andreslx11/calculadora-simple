@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf027f05-76e8-4c66-8ecc-6bc05a8164ca" name="Changes" comment="" />
+    <list default="true" id="bf027f05-76e8-4c66-8ecc-6bc05a8164ca" name="Changes" comment="refactorización" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +10,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2fYnA6nnWS24bwZUYFpEUtKNeQI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,8 +29,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Users/Luz Mary/ANDRES MUÑOZ/Estudios Andres/oracle next education/tercera-etapa-one-oracle-next-education/ejercicios-curso-2-los-dio-alurii/practica-ramas/calculadora-simple"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -46,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1713986736506</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactorización">
+      <option name="closed" value="true" />
+      <created>1713988464829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713988464829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactorización" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactorización" />
   </component>
 </project>
